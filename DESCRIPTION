@@ -7,7 +7,7 @@ Authors@R:
            role = c("aut", "cre"),
            email = "first.last@example.com",
            comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: Administrative districts of Korea shapefile, sido, sigungu, eupmyeondong
+Description: Administrative districts of Korea shapefile, sido, sigungu, eupmyeondong.
 License: GPL-3
 Encoding: UTF-8
 LazyData: true
