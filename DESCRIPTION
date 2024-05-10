@@ -1,5 +1,5 @@
-Package: k_admin_shp
-Title: k_admin_shp: Administrative districts of Korea shapefile, sido, sigungu, eupmyeondong
+Package: kadmin
+Title: kadmin: Administrative districts of Korea shapefile, sido, sigungu, eupmyeondong
 Version: 1.0.0
 Authors@R: 
     person(given = "First",
@@ -11,7 +11,7 @@ Description: Administrative districts of Korea shapefile, sido, sigungu, eupmyeo
 License: GPL-3
 Encoding: UTF-8
 LazyData: true
-Additional_repositories: https://github.com/SYOUNG9836/k_admin_shp
+Additional_repositories: https://github.com/SYOUNG9836/kadmin
 Depends: 
     R (>= 3.6)
 RoxygenNote: 7.3.1

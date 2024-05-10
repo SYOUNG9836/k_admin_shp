@@ -1,4 +1,4 @@
-#' @name k_admin_shp
+#' @name kadmin
 #' @title Administrative districts of Korea shapefile, sido, sigungu, eupmyeondong
 #'
 NULL
