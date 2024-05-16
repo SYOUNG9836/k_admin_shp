@@ -10,7 +10,6 @@ NULL
 #' Administrative districts of Korea shapefile, sido
 #' @source http://www.gisdeveloper.co.kr/?p=2332
 #' @name do
-#' @export
 NULL
 
 
@@ -20,7 +19,6 @@ NULL
 #' Administrative districts of Korea shapefile, sigungu
 #' @source http://www.gisdeveloper.co.kr/?p=2332
 #' @name sgg
-#' @export
 NULL
 
 
@@ -30,7 +28,6 @@ NULL
 #' Administrative districts of Korea shapefile, eupmyeondong
 #' @source http://www.gisdeveloper.co.kr/?p=2332
 #' @name emd
-#' @export
 NULL
 
 
