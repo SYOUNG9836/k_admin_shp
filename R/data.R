@@ -1,16 +1,11 @@
-#' @name kadmin
-#' @title Administrative districts of Korea shapefile, sido, sigungu, eupmyeondong
-#'
-NULL
-
-
 #' do
 #'
 #' @description
 #' Administrative districts of Korea shapefile, sido
 #' @source http://www.gisdeveloper.co.kr/?p=2332
 #' @name do
-NULL
+#' 
+"do"
 
 
 #' sgg
@@ -19,7 +14,8 @@ NULL
 #' Administrative districts of Korea shapefile, sigungu
 #' @source http://www.gisdeveloper.co.kr/?p=2332
 #' @name sgg
-NULL
+#' 
+"sgg"
 
 
 #' emd
@@ -28,6 +24,7 @@ NULL
 #' Administrative districts of Korea shapefile, eupmyeondong
 #' @source http://www.gisdeveloper.co.kr/?p=2332
 #' @name emd
-NULL
+#' 
+"emd"
 
 
